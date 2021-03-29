@@ -8,3 +8,9 @@ p{
     color: cyan;
     box-shadow: darkolivegreen;
 }
+
+#redElement{
+    color: darkorange;
+    background-color: dimgrey;
+} 
+/* id Selector */
