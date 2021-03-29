@@ -11,12 +11,20 @@ p{
 
 #redElement{
     color: darkorange;
-    background-color: dimgrey;
 } 
+
 /* id Selector */
+
+.bgblue{
+    background-color: greenyellow;
+}
 
 .SecondPara{
     color: fuchsia;
-    background-color: gold;
 }
 /* class selector */
+
+span ,footer {
+    color: olive;
+}
+/* group selectors */
