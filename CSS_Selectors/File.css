@@ -5,20 +5,19 @@ h3{
 /* This is element selector */
 
 p{
-    color: cyan;
-    box-shadow: darkolivegreen;
+    border: 2px solid red;
 }
+/* This is element selector */
 
 #redElement{
     color: darkorange;
 } 
-
-/* id Selector */
+/* Id Selector */
 
 .bgblue{
     background-color: greenyellow;
 }
-
+/* class selector */
 .SecondPara{
     color: fuchsia;
 }
