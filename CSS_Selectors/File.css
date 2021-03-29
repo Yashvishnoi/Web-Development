@@ -14,3 +14,9 @@ p{
     background-color: dimgrey;
 } 
 /* id Selector */
+
+.SecondPara{
+    color: fuchsia;
+    background-color: gold;
+}
+/* class selector */
