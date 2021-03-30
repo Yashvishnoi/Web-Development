@@ -1,4 +1,12 @@
 p{
     font-family:cursive;
     color: blue;
+    font-size:33px; /* 1/96 of an inch */
+    /* line-height:10em;  */
+    /* line-height = space b/w upper font  */
+}
+
+span{
+    font-weight: bold;
+    font-style: oblique;
 }
