@@ -2,7 +2,10 @@
     color: brown; /*Color by name*/
 }
 
-
 #SecondPara{
     color: rgb(0, 174, 255) /*Color by rgb*/
 }
+
+#ThirdPara{
+    color: #ff8fff /*Color by hex color*/
+} 
