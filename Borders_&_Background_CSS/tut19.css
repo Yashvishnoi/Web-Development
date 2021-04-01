@@ -12,3 +12,14 @@
     border: 4px coral solid;
     border-radius: 5px; /*To make the border point as curves*/
 }
+
+#SecondPara{
+    background-color: rgb(233, 213, 216);
+    height: 100px;
+    width: 455px;   
+
+    border-top: 2px solid violet;
+    border-left:2px solid yellowgreen;
+    border-bottom: 2px solid turquoise;
+    border-right:2px solid yellow;
+}
