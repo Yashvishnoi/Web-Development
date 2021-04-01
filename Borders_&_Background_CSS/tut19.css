@@ -31,3 +31,8 @@
     height: 100px;
     width: 455px;
     background-image: url('https://codewithharry.com/static/home/img/photo.png');
+    border: 2px  solid red;
+    background-repeat: no-repeat;
+    /* background-position:192px top ; */
+    background-position:center center ;
+}
