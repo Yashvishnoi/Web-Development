@@ -9,6 +9,7 @@
     padding-bottom: 20px;
     padding-right: 20px; */
     
-    
+    padding:20px 56px  40px 112px;  /*padding = top, right, bottom and left like this */
+
     margin: 34px;
 }
