@@ -1,4 +1,14 @@
 .container{
     background-color: rgb(211, 208, 172);
     border: 2px solid black;
+    /* padding: 8px; */
+    /* We can set margin & padding for top, bottom, left & right like this  */
+/* 
+    padding-left: 20px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-right: 20px; */
+    
+    
+    margin: 34px;
 }
