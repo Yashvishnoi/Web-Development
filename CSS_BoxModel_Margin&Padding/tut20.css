@@ -4,7 +4,9 @@
     padding: 0;
 }
 /* Universal Selector */
-
+body{
+    background-color: rgb(84, 156, 224);
+}
 .container{
     background-color: rgb(211, 208, 172);
     border: 2px solid black;
