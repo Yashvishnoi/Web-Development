@@ -4,6 +4,10 @@
 .container{
     width: 900px;
     border: 2px solid black;
+    margin: 50px auto; /*50px will take the margin upside and downside Auto will take the element in center from left and right */
+}
+body{
+    font-family: 'New Tegomin', serif;
 }
 
 .item{
