@@ -12,8 +12,8 @@ body{
 
 .item{
     border: 2px solid grey;
-    /* padding: 12px 30px;
-    /*margin: 12px 20px; */
+     padding: auto;
+    margin: auto; 
     background-color: rgb(235, 182, 69);
 }
 
@@ -28,6 +28,16 @@ body{
 }
 
 #stationary{
-    float: left;
+    /* float: left; */
     width: 100%;
+    clear: both;
+}
+
+p,h3{
+    text-align: justify;
+}
+
+h1{
+    margin: auto;
+    width: 455px;
 }
