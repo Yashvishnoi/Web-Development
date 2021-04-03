@@ -2,11 +2,13 @@
     background-color: rgb(221, 144, 44);
 }
 .container{
-
+    width: 900px;
+    border: 2px solid black;
 }
 
 .item{
     border: 2px solid grey;
     padding: 12px 30px;
     margin: 12px 20px;
+    background-color: rgb(235, 182, 69);
 }
