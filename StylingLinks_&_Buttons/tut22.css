@@ -5,11 +5,20 @@
     margin: 34px auto;
     width: 666px;
 }
-
+a{
+    text-decoration: none;
+    color: black;
+}
+a:hover{
+    color: rgb(4, 240, 24);
+    background-color:blueviolet;
+}
 .btn{
     background-color: rgb(255, 68, 0);
     padding: 6px;
     border: none;
     cursor: pointer;
+    font-size: 12px;
+    border-radius: 4px;
 }
     
