@@ -9,6 +9,7 @@
 .btn{
     background-color: rgb(255, 68, 0);
     padding: 6px;
-    border: 2px solid black;
-    border-radius: 5px;
+    border: none;
+    cursor: pointer;
 }
+    
