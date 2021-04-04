@@ -15,7 +15,10 @@ a:hover{
 }
 
 a:visited{
-    color: rgb(12, 12, 11);
+    background-color: rgb(214, 214, 46);
+}
+a:active{
+    background-color: rgb(215, 215, 228);
 }
 .btn{
     background-color: rgb(255, 68, 0);
