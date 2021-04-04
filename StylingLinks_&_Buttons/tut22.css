@@ -13,6 +13,10 @@ a:hover{
     color: rgb(4, 240, 24);
     background-color:blueviolet;
 }
+
+a:visited{
+    color: rgb(12, 12, 11);
+}
 .btn{
     background-color: rgb(255, 68, 0);
     padding: 6px;
