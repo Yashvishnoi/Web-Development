@@ -1,0 +1,17 @@
+.navbar{
+    background-color: cadetblue;
+}
+
+.navbar ul {
+    overflow: auto;
+}
+
+.navbar li {
+    float: left;
+    list-style: none;
+}
+
+.navbar li a {
+    padding: 3px 3px;
+    text-decoration: none; 
+}
