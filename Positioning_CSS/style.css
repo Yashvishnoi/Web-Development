@@ -1,7 +1,16 @@
+/*CSS Position: static (default), absolute, relative, fixed & static  */
+
 .box{
     display: inline-block;
     border: 2px solid red;
     width: 150px;
     height: 150px;
     margin: 2px;
+}
+
+#box3{
+    /* relative: relative to its normal position */
+    position: relative;
+    left: 34px;
+    top: 34px;
 }
