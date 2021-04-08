@@ -1,4 +1,8 @@
 /*CSS Position: static (default), absolute, relative, fixed & static  */
+.container{
+    border: 2px solid black;
+    background-color: burlywood;
+}
 
 .box{
     display: inline-block;
@@ -9,8 +13,11 @@
 }
 
 #box3{
-    /* relative: relative to its normal position */
-    position: relative;
+    /* relative: relative to its normal position and leave a gap to its normal position */
+    /* position: relative; */
+   
+    /* absolute: relative to the position of its first parent*/
+    position: absolute;
     left: 34px;
     top: 34px;
 }
