@@ -1,0 +1,23 @@
+.left{
+    position: absolute ;
+    left: 34px;
+    top: 18px;
+    border: 2px solid red;
+    display: inline-block;
+}
+
+.mid{
+    display: block;
+    width: 33%;
+    margin: 20px auto;
+    border: 2px solid rgb(122, 250, 17);
+}
+
+.right{
+    border: 2px solid rgb(13, 28, 248);
+    display: inline-block;
+    position: absolute ;
+    right: 34px;
+    top: 18px;
+     
+}
