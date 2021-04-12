@@ -18,6 +18,23 @@
     display: inline-block;
     position: absolute ;
     right: 34px;
-    top: 18px;
-     
+    top: 18px;    
+}
+
+.navbar{
+    display: inline-block;
+}
+.navbar li{
+    display: inline-block;
+    font-size: 18px;
+
+}
+.navbar li a{
+    color: white;
+    text-decoration: none;
+    padding: 10px;
+}
+.navbar li a:hover{
+    color: rgb(226, 112, 112);
+    text-decoration:overline;
 }
