@@ -2,19 +2,22 @@
     position: absolute ;
     left: 34px;
     top: 18px;
-    border: 2px solid red;
+    border: 2px solid rgb(70, 59, 59);
     display: inline-block;
 }
 
+.left img {
+    width: 100px;
+}
 .mid{
     display: block;
     width: 33%;
     margin: 20px auto;
-    border: 2px solid rgb(122, 250, 17);
+    border: 2px solid rgb(86, 92, 82);
 }
 
 .right{
-    border: 2px solid rgb(13, 28, 248);
+    border: 2px solid rgb(84, 84, 90);
     display: inline-block;
     position: absolute ;
     right: 34px;
@@ -27,14 +30,13 @@
 .navbar li{
     display: inline-block;
     font-size: 18px;
-
 }
 .navbar li a{
     color: white;
     text-decoration: none;
     padding: 10px;
 }
-.navbar li a:hover{
-    color: rgb(226, 112, 112);
+.navbar li a:hover , .navbar li a.active{
+    color: rgb(124, 115, 115);
     text-decoration:overline;
 }
