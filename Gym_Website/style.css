@@ -11,6 +11,7 @@
 }
 .left div{
     text-align: center;
+    font-size: 20px;
 }
 .mid{
     display: block;
@@ -52,4 +53,8 @@
     border-radius: 10px;
     border: 2px solid grey;
     font-size: 15px;
+}
+.btn:hover{
+    color: chocolate;
+    background-color: grey;
 }
