@@ -13,11 +13,11 @@
     display: block;
     width: 33%;
     margin: 20px auto;
-    border: 2px solid rgb(86, 92, 82);
+    border: 2px solid rgb(210, 216, 210);
 }
 
 .right{
-    border: 2px solid rgb(84, 84, 90);
+    border: 2px solid rgb(210, 210, 226);
     display: inline-block;
     position: absolute ;
     right: 34px;
@@ -37,6 +37,6 @@
     padding: 10px;
 }
 .navbar li a:hover , .navbar li a.active{
-    color: rgb(124, 115, 115);
+    color: rgb(12 241 167);
     text-decoration:overline;
 }
