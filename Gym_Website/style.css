@@ -2,12 +2,15 @@
     position: absolute ;
     left: 34px;
     top: 18px;
-    border: 2px solid rgb(70, 59, 59);
+    border: 2px solid);
     display: inline-block;
 }
 
 .left img {
-    width: 100px;
+    width: 93px;
+}
+.left div{
+    text-align: center;
 }
 .mid{
     display: block;
@@ -39,4 +42,14 @@
 .navbar li a:hover , .navbar li a.active{
     color: rgb(12 241 167);
     text-decoration:overline;
+}
+
+.btn{
+    margin: 0px 9px;
+    background-color: black;
+    color: blanchedalmond;
+    padding: 4px 4px;
+    border-radius: 10px;
+    border: 2px solid grey;
+    font-size: 15px;
 }
