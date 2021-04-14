@@ -61,9 +61,9 @@
     background-color: grey;
 }
 .container{
-    border: 2px solid red;
+    border: 2px solid rgb(240, 232, 232);
     margin: 106px 20px;
-    padding: 2px 2px;
-    width: 33%;
-    border-radius: 2px;
+    padding: 75px 75px;
+    width: 30%;
+    border-radius: 20px;
 }
