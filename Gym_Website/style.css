@@ -2,7 +2,7 @@
     position: absolute ;
     left: 60px;
     top: 18px;
-    border: 2px solid);
+    /* border: 2px solid); */
     display: inline-block;
 }
 
@@ -18,11 +18,11 @@
     display: block;
     width: 36%;
     margin: 20px auto;
-    border: 2px solid rgb(210, 216, 210);
+    /* border: 2px solid rgb(210, 216, 210); */
 }
 
 .right{
-    border: 2px solid rgb(210, 210, 226);
+    /* border: 2px solid rgb(210, 210, 226); */
     display: inline-block;
     position: absolute ;
     right: 34px;
@@ -83,8 +83,8 @@
     text-align: center;
 }
 
-..container button {
+.container button {
     display: block;
-    width: 23%;
-    margin: auto;
+    width: 53%;
+    margin: 2px auto;
 }
